@@ -60,7 +60,7 @@ Function Add() As Integer
 		End If
 	Loop	
 
-	Print "Sum = " & sum
+	Print !"\nSum = " & sum & !"\n"
 
 	Return 1
 End Function
